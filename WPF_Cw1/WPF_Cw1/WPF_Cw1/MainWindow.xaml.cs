@@ -26,9 +26,9 @@ namespace WPF_Cw1
         }
         private void btnStart_Click(object sender, RoutedEventArgs e)
         {
-            btnStart.Opacity = 0.3;
+            btnStart.Visibility = Visibility.Hidden;
             MessageBox.Show("Hello World");
-            btnStart.Opacity = 1;
+            btnStart.Visibility = Visibility.Visible;
         }
 
         private void btnTime_MouseEnter(object sender, MouseEventArgs e)
