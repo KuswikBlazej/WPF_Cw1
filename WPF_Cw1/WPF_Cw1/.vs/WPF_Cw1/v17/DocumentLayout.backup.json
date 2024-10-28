@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bkuswik\\Desktop\\WPF_Cw1\\WPF_Cw1\\",
+  "WorkspaceRootPath": "C:\\Users\\bkuswik\\Desktop\\WPF_Cw1\\WPF_Cw1\\WPF_Cw1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD523799-780D-466E-AD52-661813B4F86E}|WPF_Cw1\\WPF_Cw1.csproj|c:\\users\\bkuswik\\desktop\\wpf_cw1\\wpf_cw1\\wpf_cw1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BD523799-780D-466E-AD52-661813B4F86E}|WPF_Cw1\\WPF_Cw1.csproj|c:\\users\\bkuswik\\desktop\\wpf_cw1\\wpf_cw1\\wpf_cw1\\wpf_cw1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BD523799-780D-466E-AD52-661813B4F86E}|WPF_Cw1\\WPF_Cw1.csproj|solutionrelative:wpf_cw1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD523799-780D-466E-AD52-661813B4F86E}|WPF_Cw1\\WPF_Cw1.csproj|c:\\users\\bkuswik\\desktop\\wpf_cw1\\wpf_cw1\\wpf_cw1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD523799-780D-466E-AD52-661813B4F86E}|WPF_Cw1\\WPF_Cw1.csproj|C:\\Users\\bkuswik\\Desktop\\WPF_Cw1\\WPF_Cw1\\WPF_Cw1\\wpf_cw1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD523799-780D-466E-AD52-661813B4F86E}|WPF_Cw1\\WPF_Cw1.csproj|solutionrelative:wpf_cw1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\bkuswik\\Desktop\\WPF_Cw1\\WPF_Cw1\\WPF_Cw1\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bkuswik\\Desktop\\WPF_Cw1\\WPF_Cw1\\WPF_Cw1\\WPF_Cw1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPF_Cw1\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\bkuswik\\Desktop\\WPF_Cw1\\WPF_Cw1\\WPF_Cw1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bkuswik\\Desktop\\WPF_Cw1\\WPF_Cw1\\WPF_Cw1\\WPF_Cw1\\MainWindow.xaml",
               "RelativeToolTip": "WPF_Cw1\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-28T06:35:21.115Z",
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\bkuswik\\Desktop\\WPF_Cw1\\WPF_Cw1\\WPF_Cw1\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bkuswik\\Desktop\\WPF_Cw1\\WPF_Cw1\\WPF_Cw1\\WPF_Cw1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPF_Cw1\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\bkuswik\\Desktop\\WPF_Cw1\\WPF_Cw1\\WPF_Cw1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bkuswik\\Desktop\\WPF_Cw1\\WPF_Cw1\\WPF_Cw1\\WPF_Cw1\\MainWindow.xaml.cs",
               "RelativeToolTip": "WPF_Cw1\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
