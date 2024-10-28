@@ -1,1 +1,3 @@
-# WPF_Cw1
+WPF Ćwiczenie 1
+
+Błażej Kuświk
