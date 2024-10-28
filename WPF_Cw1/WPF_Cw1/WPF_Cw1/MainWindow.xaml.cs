@@ -24,5 +24,9 @@ namespace WPF_Cw1
         {
             InitializeComponent();
         }
+        private void btnStart_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Hello World");
+        }
     }
 }

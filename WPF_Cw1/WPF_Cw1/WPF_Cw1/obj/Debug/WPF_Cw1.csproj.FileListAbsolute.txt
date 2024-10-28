@@ -1,0 +1,15 @@
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\obj\Debug\WPF_Cw1.csproj.AssemblyReference.cache
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\obj\Debug\MainWindow.g.cs
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\obj\Debug\App.g.cs
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\obj\Debug\WPF_Cw1_MarkupCompile.cache
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\obj\Debug\WPF_Cw1_MarkupCompile.lref
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\bin\Debug\WPF_Cw1.exe.config
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\bin\Debug\WPF_Cw1.exe
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\bin\Debug\WPF_Cw1.pdb
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\obj\Debug\MainWindow.baml
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\obj\Debug\WPF_Cw1.g.resources
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\obj\Debug\WPF_Cw1.Properties.Resources.resources
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\obj\Debug\WPF_Cw1.csproj.GenerateResource.cache
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\obj\Debug\WPF_Cw1.csproj.CoreCompileInputs.cache
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\obj\Debug\WPF_Cw1.exe
+C:\Users\bkuswik\Desktop\WPF_Cw1\WPF_Cw1\WPF_Cw1\WPF_Cw1\obj\Debug\WPF_Cw1.pdb

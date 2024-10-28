@@ -8,8 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="btnStart" Content="Start" HorizontalAlignment="Left" Height="60" Margin="75,50,0,0" VerticalAlignment="Top"
-                Width="135" FontFamily="Times New Roman" FontSize="26.667" FontWeight="Bold"></Button>
+                Width="135" FontFamily="Times New Roman" FontSize="26.667" FontWeight="Bold" Click="btnStart_Click"></Button>
         <Button x:Name="btnTime" Content="Czas" HorizontalAlignment="Left" Height="60" Margin="75,150,0,0" VerticalAlignment="Top"
-                Width="135" FontFamily="Times New Roman" FontSize="26.667" FontWeight="Bold"></Button>
+                Width="135" FontFamily="Times New Roman" FontSize="26.667" FontWeight="Bold"/>
     </Grid>
 </Window>
