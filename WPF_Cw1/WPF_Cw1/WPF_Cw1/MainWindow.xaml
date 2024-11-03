@@ -7,9 +7,17 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Label>
+            <Label Content="Czy chcesz podwyżke?" FontFamily="Times New Roman" FontSize="26.667" FontWeight="Bold" HorizontalAlignment="Center" Margin="275,50,0,0"/>
+        </Label>
         <Button x:Name="btnStart" Content="Start" HorizontalAlignment="Left" Height="60" Margin="75,50,0,0" VerticalAlignment="Top"
                 Width="135" FontFamily="Times New Roman" FontSize="26.667" FontWeight="Bold" Click="btnStart_Click" Background="#FFB76BED" BorderBrush="#FF3B0548" Foreground="White"></Button>
         <Button x:Name="btnTime" Content="Czas" HorizontalAlignment="Left" Height="60" Margin="75,150,0,0" VerticalAlignment="Top"
                 Width="135" FontFamily="Times New Roman" FontSize="26.667" FontWeight="Bold" MouseEnter="btnTime_MouseEnter" MouseLeave="btnTime_MouseLeave"/>
+
+        <Button x:Name="btnYes" Content="Tak" HorizontalAlignment="Left" Height="60" Margin="250,150,0,0" VerticalAlignment="Top"
+                Width="135" FontFamily="Times New Roman" FontSize="26.667" FontWeight="Bold" MouseEnter="btnYes_MouseEnter" ></Button>
+        <Button x:Name="btnNo" Content="Nie" HorizontalAlignment="Left" Height="60" Margin="450,150,0,0" VerticalAlignment="Top"
+                Width="135" FontFamily="Times New Roman" FontSize="26.667" FontWeight="Bold" ></Button>
     </Grid>
 </Window>
